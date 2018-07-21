@@ -1,0 +1,12 @@
+{
+  "name": "passive-income",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zeke/passive-income.git",
+  "author": "Zeke Sikelianos <zeke@sikelianos.com>",
+  "license": "MIT",
+  "dependencies": {
+    "schemeless": "^1.2.0",
+    "url-to-title": "^1.0.6"
+  }
+}
